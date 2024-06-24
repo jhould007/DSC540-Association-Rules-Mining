@@ -1,4 +1,4 @@
-# dsc540-association-rules-mining
+# DSC540-Association-Rules-Mining
 An assignment for DSC540 (Machine Learning for Data Science) at GCU that focused on mining association rules ("if-then"-style relationships between items) from a chosen dataset. See README.md for more information. The goal was to take a dataset containing interactions between a Portuguese bank and its clients and mine it for association rules, which would help the bank understand its clients better and improve its services.
 
 Check out the full report [here.](https://github.com/jhould007/dsc540-association-rules-mining/blob/master/Association%20Rules%20Mining.ipynb)
